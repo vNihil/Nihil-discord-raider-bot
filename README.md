@@ -8,3 +8,9 @@ este comando borra todos los canales y opcionalmente pasa como parametro el nomb
 Crea cuantos canales sean especificados, con el nombre especificado y pinguea cada milisegundo con un mensaje que se especifique
 
 ![image](https://user-images.githubusercontent.com/52175067/192129510-295e53eb-10c0-4d52-be06-320bce8c8e02.png)
+
+Configuracion:
+Para configurar el bot debes introducir tu token y el id de tu bot en el archivo config.json
+
+![image](https://user-images.githubusercontent.com/52175067/192129634-5e890a01-5e05-413f-8601-281ed6e873eb.png)
+
