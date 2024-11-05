@@ -4,7 +4,7 @@ const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 const commands = [
     {
       name: 'muerte',
-      description: 'Usalo y averigualo, maricon',
+      description: 'Usalo y averigualo',
       options:[
         {
           name: "nuevonombre",
@@ -22,7 +22,7 @@ const commands = [
     },
     {
       name: 'spam',
-      description: 'es un mojarron jaja',
+      description: 'spam',
       options:[
         {
           name: "cantidadcanales",
